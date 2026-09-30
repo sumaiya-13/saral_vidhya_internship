@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+email-validator
+pymupdf
+pillow
+pytesseract
+groq
+python-dotenv
